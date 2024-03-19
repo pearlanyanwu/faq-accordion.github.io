@@ -36,6 +36,7 @@ header {
   font-weight: 700;
   font-size: 1.05rem;
   margin: 10px 0;
+  margin-left: -0.25em;
 }
 
 .question::after {
@@ -51,7 +52,7 @@ h1 {
 .answer {
   overflow: hidden;
   max-height: 0;
-  font-size: 0.9rem;
+  font-size: 0.95rem;
   width: 99%;
   color: hsl(292, 16%, 49%);
 }
@@ -62,10 +63,13 @@ h1 {
 
 #logo + h1 {
   display: inline;
-  vertical-align: baseline;
+  vertical-align: text-bottom;
 }
 
-#logo,
+#logo {
+  margin-left: 0.2em;
+}
+
 h1 {
   margin-left: 0.5em;
 }
