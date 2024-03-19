@@ -51,7 +51,7 @@ h1 {
 .answer {
   overflow: hidden;
   max-height: 0;
-  font-size: 0.5rem;
+  font-size: 0.9rem;
   width: 99%;
   color: hsl(292, 16%, 49%);
 }
@@ -72,11 +72,4 @@ h1 {
 
 hr {
   border-color: hsla(0, 0%, 100%, 0.3);
-}
-
-@media screen and (min-width: 1440px) {
-  body {
-    background-image: url("images/background-pattern-desktop.svg");
-    background-repeat: no-repeat;
-  }
 }
