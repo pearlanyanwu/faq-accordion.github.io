@@ -77,3 +77,38 @@ h1 {
 hr {
   border-color: hsla(0, 0%, 100%, 0.3);
 }
+
+@media screen and (min-width: 1440px) {
+  body {
+    background-image: url("images/background-pattern-desktop.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 270px 0;
+  }
+
+  .container {
+    max-width: 27%;
+    margin: 0 auto;
+    padding: 50px 30px;
+  }
+
+  br {
+    display: none;
+  }
+
+  #logo {
+    height: 40px;
+  }
+
+  h1 {
+    font-size: 3rem;
+  }
+
+  #logo + h1 {
+    vertical-align: super;
+  }
+
+  .question {
+    font-size: 1.09rem;
+  }
+}
