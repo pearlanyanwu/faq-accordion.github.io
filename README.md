@@ -44,7 +44,7 @@ I learned how to create an FAQ Accordion.
 
 ### Continued development
 
-Working on desktop design.
+Working on the alignment of questions to the plus/minus signs in the mobile design.
 
 ### Useful resources
 - [w3schools.com](https://www.w3schools.com/howto/howto_js_accordion.asp) - This resource helped me build the accordion itself.
