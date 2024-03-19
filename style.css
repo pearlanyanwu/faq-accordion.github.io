@@ -111,4 +111,8 @@ hr {
   .question {
     font-size: 1.09rem;
   }
+
+  .question:hover {
+    color: 	hsl(281, 83%, 54%);
+  }
 }
