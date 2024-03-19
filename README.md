@@ -44,7 +44,7 @@ I learned how to create an FAQ Accordion.
 
 ### Continued development
 
-I've uploaded the mobile design first to ensure good quality before I begin working on the desktop design.
+Working on desktop design.
 
 ### Useful resources
 - [w3schools.com](https://www.w3schools.com/howto/howto_js_accordion.asp) - This resource helped me build the accordion itself.
